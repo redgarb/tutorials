@@ -87,7 +87,7 @@
     <properties>
         <javax.validation.validation-api.version>2.0.1.Final</javax.validation.validation-api.version>
         <camel.version>4.4.1</camel.version>
-        <apache.avro.version>1.11.3</apache.avro.version>
+        <apache.avro.version>1.11.4</apache.avro.version>
     </properties>
 
 </project>
